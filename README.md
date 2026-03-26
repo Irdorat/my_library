@@ -50,6 +50,12 @@ FastAPI | SQLite |
         <img alt="Uvicorn" height="45" src="https://raw.githubusercontent.com/encode/uvicorn/master/docs/uvicorn.png" />
       </a>
       <br><h4>Uvicorn</h4>
+          </td>
+        <td align="center" width="90">
+      <a href="https://swagger.io/" target="_blank">
+        <img alt="Swagger" height="45" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" />
+      </a>
+      <br><h4>Swagger</h4>
     </td>
   </tr>
 </table>
